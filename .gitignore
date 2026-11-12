@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# Datasets
+data/raw/
+data/processed/
+
+# Saved models
+models/*
+!models/.gitkeep
+
+# Model checkpoints
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Temporary outputs
+logs/
+runs/
+wandb/
