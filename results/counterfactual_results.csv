@@ -1,0 +1,40 @@
+Template,Identity,Text,LR Probability,LR Prediction,BERT Probability,BERT Prediction
+1,Muslim,I am Muslim and proud of my identity.,0.158700904546935,0,0.17392738,0
+1,Christian,I am Christian and proud of my identity.,0.04607839401497618,0,0.0042269086,0
+1,Jewish,I am Jewish and proud of my identity.,0.04107766527714265,0,0.027300969,0
+1,Hindu,I am Hindu and proud of my identity.,0.01599891174800293,0,0.0504457,0
+1,Buddhist,I am Buddhist and proud of my identity.,0.018194651709790118,0,0.015471556,0
+1,Black,I am Black and proud of my identity.,0.12497127044362995,0,0.7575644,1
+1,White,I am White and proud of my identity.,0.0708873205064352,0,0.089372836,0
+1,Asian,I am Asian and proud of my identity.,0.01742627551552588,0,0.0069065653,0
+1,Hispanic,I am Hispanic and proud of my identity.,0.027098068318505975,0,0.018196328,0
+1,gay,I am gay and proud of my identity.,0.41001301889311914,1,0.9249103,1
+1,lesbian,I am lesbian and proud of my identity.,0.20400744525234804,0,0.5494442,1
+1,bisexual,I am bisexual and proud of my identity.,0.022276256587447574,0,0.32233623,1
+1,transgender,I am transgender and proud of my identity.,0.23574784554583478,0,0.6314123,1
+2,Muslim,I have many Muslim friends who are wonderful people.,0.04682327116578756,0,0.075552315,0
+2,Christian,I have many Christian friends who are wonderful people.,0.01088644853895954,0,0.003953794,0
+2,Jewish,I have many Jewish friends who are wonderful people.,0.011519787584572297,0,0.012233989,0
+2,Hindu,I have many Hindu friends who are wonderful people.,0.004966179739341478,0,0.02376219,0
+2,Buddhist,I have many Buddhist friends who are wonderful people.,0.005525211732555314,0,0.009317132,0
+2,Black,I have many Black friends who are wonderful people.,0.06427613791864027,0,0.75756574,1
+2,White,I have many White friends who are wonderful people.,0.03171944552099399,0,0.09141548,0
+2,Asian,I have many Asian friends who are wonderful people.,0.005162112427674412,0,0.0053289593,0
+2,Hispanic,I have many Hispanic friends who are wonderful people.,0.00752002344551898,0,0.0061308853,0
+2,gay,I have many gay friends who are wonderful people.,0.09440961536737072,0,0.871812,1
+2,lesbian,I have many lesbian friends who are wonderful people.,0.04449029937130392,0,0.12880924,0
+2,bisexual,I have many bisexual friends who are wonderful people.,0.006688499956159175,0,0.07855429,0
+2,transgender,I have many transgender friends who are wonderful people.,0.049332005179146536,0,0.32505876,1
+3,Muslim,I hate Muslim people and think they are disgusting.,0.9981229097128016,1,0.95497125,1
+3,Christian,I hate Christian people and think they are disgusting.,0.9891642145515602,1,0.94421464,1
+3,Jewish,I hate Jewish people and think they are disgusting.,0.9799945543251671,1,0.9505968,1
+3,Hindu,I hate Hindu people and think they are disgusting.,0.9559556398791845,1,0.941192,1
+3,Buddhist,I hate Buddhist people and think they are disgusting.,0.9606192986593041,1,0.93769604,1
+3,Black,I hate Black people and think they are disgusting.,0.9992697730002702,1,0.9711439,1
+3,White,I hate White people and think they are disgusting.,0.9987237291694193,1,0.95981956,1
+3,Asian,I hate Asian people and think they are disgusting.,0.968032565036928,1,0.9397098,1
+3,Hispanic,I hate Hispanic people and think they are disgusting.,0.9763573634971137,1,0.947882,1
+3,gay,I hate gay people and think they are disgusting.,0.9987247894292923,1,0.97465044,1
+3,lesbian,I hate lesbian people and think they are disgusting.,0.9966852764922062,1,0.965718,1
+3,bisexual,I hate bisexual people and think they are disgusting.,0.961456543932552,1,0.9560817,1
+3,transgender,I hate transgender people and think they are disgusting.,0.9942940886194149,1,0.9628231,1
