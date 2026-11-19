@@ -11,7 +11,7 @@ Interactive Web Demo: https://cs72-toxicity-nlp-ezzd5wwjd4rmyzekuzyytr.streamlit
 
 DistilBERT model: https://huggingface.co/will55555/cs72-toxicity-distilbert 
 
-Writeup: [link]
+Writeup: https://docs.google.com/document/d/1GVSrDQmN7Zva0ubWuaHKk3Qj6Pl04_ePb34pgSTuCGs/edit?usp=sharing
 
 ### Reproducibility Instructions: 
 
